@@ -7,7 +7,7 @@ import java.util.Map;
  * 时间复杂度O(n)
  * 空间复杂度O(n)
  */
-public class Two_Sum_1 {
+public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         if(nums==null){
             return null;
